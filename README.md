@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/JacksonJeanPS/results-summary-component-main)
-- Live Site URL: [Live url](https://adriangallano.github.io/results-summary-component/)
+- Live Site URL: [Live url](https://jacksonjeanps.github.io/results-summary-component-main/)
 
 ### Built with
 
